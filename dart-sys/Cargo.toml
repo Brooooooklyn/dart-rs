@@ -1,0 +1,10 @@
+[package]
+name = "dart-sys"
+version = "0.0.1"
+authors = ["LongYinan <lynweklm@gmail.com>"]
+edition = "2018"
+build = "build.rs"
+
+[build-dependencies]
+bindgen = "0.49"
+cc = "1"

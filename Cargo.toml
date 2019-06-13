@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "dart-sys",
+  "dart-vm",
+  "dart-example"
+]
